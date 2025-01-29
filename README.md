@@ -21,5 +21,5 @@
        ser desmatada, com aval da justica e obedecendo a lei, para completar um projeto de urbanização criado pela
        empreiteira Sobloco na década de 1970.[1]</p>
 <figure>
-<img src="riviera de sao lourenço.PNG" alt="texto alternativo" width="304" height="228"> <figcaption>Fig.1 The Pulpit Rock. Norway. </figcaption>
+<img src="Riviera de São Lourenço.PNG" alt="texto alternativo" width="304" height="228"> <figcaption>Fig.1 The Pulpit Rock. Norway. </figcaption>
 </figure>
