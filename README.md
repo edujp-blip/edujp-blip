@@ -12,9 +12,12 @@
  
  <font color= "purple"><h1>Letras em verde (...sem alteração...)</h1></font>
 
+ <b> define texto em negrito </b>
+
+ <i>define texto em itálico</i>
+
 <big>define texto grande (...sem alteração...)</big>
 
-<b> define texto em negrito </b>
 
 <em>define texto enfatizado</em>
 
