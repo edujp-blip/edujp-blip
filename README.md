@@ -10,17 +10,4 @@
 
  <p align = center>Bertioga - Riviera de São Lourenço</p>
  
- <font color= "purple"><h1>Letras em verde (...sem alteração...)</h1></font>
-
- <b> define texto em negrito </b>
-
- <i>define texto em itálico</i>
-
-<big>define texto grande (...sem alteração...)</big>
-
-
-<em>define texto enfatizado</em>
-
-<ins>define texto inserido (frisado)</ins>
-
-<del>define texto cancelado</del>
+ 
