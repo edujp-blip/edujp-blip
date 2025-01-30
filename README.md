@@ -18,7 +18,7 @@
 
 <big>define texto grande (...sem alteração...)</big>
 
-<small>define texto pequeno</small>
+<small>define texto pequeno (...sem alteração...)</small>
 
 <strong>define texto forte</strong>
 
