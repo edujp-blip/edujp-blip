@@ -14,3 +14,5 @@
  <p> não define texto em negrito</p>
  <b> define texto em negrito </b>
  <strong>define texto forte</strong> 
+
+ <em>define texto enfatizado</em>
