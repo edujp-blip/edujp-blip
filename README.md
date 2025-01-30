@@ -9,9 +9,8 @@
 <h6>tamanho da fonte</h6>
 
  <p align = center>Bertioga - Riviera de São Lourenço</p>
+ 
  <font color= "purple"><h1>Letras em verde (...sem alteração...)</h1></font>
-
-<p>não define texto em negrito</p>
 
 <big>define texto grande (...sem alteração...)</big>
 
