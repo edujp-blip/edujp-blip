@@ -18,3 +18,5 @@
 <em>define texto enfatizado</em>
 
 <ins>define texto inserido (frisado)</ins>
+
+<del>define texto cancelado</del>
