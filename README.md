@@ -8,10 +8,4 @@
 <h5>tamanho da fonte</h5> 
 <h6>tamanho da fonte</h6>
 
-   <style>
-        body{
-      background: rgb(144, 238, 225);
-      color: rgb(132, 0, 255);
-      font-family:'Times New Roman'
-              }
-      </style>
+ <p align = center>Bertioga - Riviera de São Lourenço</p>
