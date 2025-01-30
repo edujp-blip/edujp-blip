@@ -10,7 +10,7 @@
 
  <p align = center>Bertioga - Riviera de São Lourenço</p>
  <font color= "purple"><h1>Letras em verde</h1></font>
-  <title>Aqui Title</title>
+  <h1><title>Aqui Title</title><h1></h1>
   
  <head>
    <meta charset="UTF-8">
