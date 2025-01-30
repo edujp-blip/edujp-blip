@@ -12,6 +12,9 @@
  <font color= "purple"><h1>Letras em verde</h1></font>
 
 <p> não define texto em negrito</p>
+
 <b> define texto em negrito </b>
+
 <em>define texto enfatizado</em>
+
 <ins>define texto inserido (frisado)</ins>
