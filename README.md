@@ -13,6 +13,8 @@
 
 <p> não define texto em negrito</p>
 
+<big>define texto grande</big>
+
 <b> define texto em negrito </b>
 
 <em>define texto enfatizado</em>
