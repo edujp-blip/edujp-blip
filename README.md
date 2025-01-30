@@ -8,4 +8,10 @@
 <h5>tamanho da fonte</h5> 
 <h6>tamanho da fonte</h6>
 
-<img src="Holambra.PNG" alt="">
+   <style>
+        body{
+      background: rgb(144, 238, 225);
+      color: rgb(132, 0, 255);
+      font-family:'Times New Roman'
+              }
+      </style>
