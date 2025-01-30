@@ -11,4 +11,5 @@
  <p align = center>Bertioga - Riviera de São Lourenço</p>
  <font color= "purple"><h1>Letras em verde</h1></font>
 
+ <p> não define texto em negrito</p>
  <b> define texto em negrito </b>
