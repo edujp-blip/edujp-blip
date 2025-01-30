@@ -18,9 +18,16 @@
 
 <big>define texto grande (...sem alteração...)</big>
 
+<small>define texto pequeno</small>
+
+<strong>define texto forte</strong>
 
 <em>define texto enfatizado</em>
 
 <ins>define texto inserido (frisado)</ins>
 
 <del>define texto cancelado</del>
+
+<sup>define texto subescrito; superescrito (espaço entre linhas)</sup>
+
+<sup>exEmplo:</sup>
