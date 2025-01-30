@@ -13,7 +13,7 @@
 
 <p> não define texto em negrito</p>
 
-<big>define texto grande</big>
+<big>define texto grande (sem alteração)</big>
 
 <b> define texto em negrito </b>
 
